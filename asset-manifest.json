@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notify-Component/static/css/main.560cb2f9.css",
+    "main.js": "/Notify-Component/static/js/main.197dd5a5.js",
+    "index.html": "/Notify-Component/index.html",
+    "main.560cb2f9.css.map": "/Notify-Component/static/css/main.560cb2f9.css.map",
+    "main.197dd5a5.js.map": "/Notify-Component/static/js/main.197dd5a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560cb2f9.css",
+    "static/js/main.197dd5a5.js"
+  ]
+}
