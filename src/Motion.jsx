@@ -23,7 +23,7 @@ function Motion() {
         width: "100%",
         height: "100%",
       }}
-      className="bg-[url('https://dashboardsdesign.com/img/dashboards/dashboard-05-custom.png')] bg-cover overflow-x-hidden"
+      className="bg-neutral-200 bg-cover overflow-x-hidden"
       // https://uploads-ssl.webflow.com/5db1c0d5ca3871e8fd1a7b66/5f63b113e7d1c6c38762d22e_0*SIFdzjYX5-zSqfgx.png
       // https://dashboardsdesign.com/img/dashboards/dashboard-05-custom.png
     >
